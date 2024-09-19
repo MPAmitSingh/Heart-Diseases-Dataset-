@@ -1,5 +1,5 @@
 # Heart-Diseases-Dataset-
-Project : 9 - Heart Diseases Dataset EDA
+Heart Diseases Dataset EDA
 
 🔍 Exploring Heart Disease with EDA: Unveiling Patterns and Insights 🔍
 
